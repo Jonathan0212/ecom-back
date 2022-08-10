@@ -23,6 +23,7 @@ SO THAT my company can compete with other e-commerce companies
 
 ## Screenshots
 ![ecom](https://user-images.githubusercontent.com/93745345/157377949-56ea0bc7-871f-4254-9346-75b9a46582fb.png)
+![DEMO](https://drive.google.com/file/d/1sSCYeaGkKw0OqQagybnTVhTpCrCwF1Or/view?usp=sharing)
 
 
 
